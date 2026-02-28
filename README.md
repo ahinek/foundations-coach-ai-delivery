@@ -63,7 +63,7 @@ If this is your first time here:
 3. Use your preferred AI assistant (ChatGPT, Claude, Gemini, etc.) and point it at this repository to:
    - summarize it
    - explain GitHub basics
-   - walk you through how to fork it
+   - walk you through how to fork it (if that's something you want to do).
    - help you adapt it to your team
    - generate a simple pilot plan
 
