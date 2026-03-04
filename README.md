@@ -6,7 +6,7 @@ It is not a framework.
 It is not a certification.  
 It is not a replacement for Scrum Masters or Agile Coaches.
 
-It is a starting point.
+It is a starting point. It is a small movement around AI Delivery
 
 ---
 
