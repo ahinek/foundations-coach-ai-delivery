@@ -49,6 +49,7 @@ Acceleration is powerful only when built on:
 - `LEADER_ALIGNMENT.md` — what leadership must reinforce
 - `SIGNALS_TO_WATCH.md` — early indicators of fragmentation
 - `NOT_THIS.md` — what this role is not
+- 'TRY_THE_EXPERIMENT.md' — start small and measure well
 
 Minimal by design. Expand thoughtfully.
 
