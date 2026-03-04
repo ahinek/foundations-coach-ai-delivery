@@ -1,6 +1,6 @@
 # Try the Experiment
 
-> **One-line summary**  
+>   
 > Strengthen Agile foundations with one team before scaling AI adoption across an organization.
 
 Most organizations are approaching AI adoption as a **tool rollout**.
